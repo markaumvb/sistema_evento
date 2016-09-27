@@ -1,4 +1,4 @@
-FERRAMENTAS NECESS¡RIAS PARA O DESENVOLVIMENTO:
+FERRAMENTAS NECESS√ÅRIAS PARA O DESENVOLVIMENTO:
 
 MYSQL WORKBENCH
 - https://www.mysql.com/products/workbench/
@@ -13,3 +13,4 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 
 GITHUB
 - https://git-scm.com/download/win
+teste
