@@ -1,0 +1,14 @@
+comandos git
+
+git status - verificar status do arquivo index do git
+git clone https://github.com/<username>/site.git - clonar repositório
+git add <arquivo> : - adicionar arquivo para controle de versão
+git commit -m "descricao" - salvar alterações
+git push - publicar todos os commits
+git pull - pegar modificações feitas por outros usuários
+git checktou <nome branch> - alterar o branch
+git merge <branch> - trazer arquivos de outro branch
+
+
+mais comandos
+http://tableless.com.br/alguns-comandos-git/
