@@ -1,4 +1,4 @@
-# sistema_evento
+# Sistema de Eventos
 Sistema de eventos UFPR Jandaia do Sul
 
 Servidores:
