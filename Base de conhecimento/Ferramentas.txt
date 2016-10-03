@@ -17,3 +17,6 @@ GITHUB
 
 LARAVEL
 - http://tableless.com.br/instalando-laravel-5-2/
+
+NETBEANS
+- https://netbeans.org/downloads/
