@@ -3,6 +3,9 @@ FERRAMENTAS NECESSÁRIAS PARA O DESENVOLVIMENTO:
 MYSQL WORKBENCH
 - https://www.mysql.com/products/workbench/
 
+XAMPP
+- https://www.apachefriends.org/pt_br/download.html
+
 SUBLIME TEXT
 - https://www.sublimetext.com/3
 
